@@ -1205,7 +1205,7 @@ button:focus {
     opacity: 1;
     position: absolute;
     top: 16px;
-    background: #fff;
+    /* background: #fff; */
     right: -90px;
     padding: 15px 25px
 }
